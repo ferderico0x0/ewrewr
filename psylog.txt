@@ -1,0 +1,757 @@
+===  Downloads  ===
+2022-11-03 10:02:00 [f5][f5][f5]
+
+===  gavinkendall/psylog: A simple keylogger for Windows and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:02:17 [enter]
+
+===  github.com and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:03:28 [enter]
+
+===  New tab and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:03:55 goog[enter]
+
+===  github.com and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:04:00 [enter]
+
+===  Quiz_2/app/src at master · ferderico0x0/Quiz_2 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:05:27 [enter]
+2022-11-03 10:07:24 [enter]
+
+===  Sign in to GitHub · GitHub and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:08:00 [delete][backspace]nyomanfadilah123@gmail.comn[backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][caps]n[caps]yo[backspace][backspace][backspace][backspace][caps]n[caps]yoman1906[enter]
+
+===  GitHub · Where software is built and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:09:16 683651
+
+===  Personal Access Tokens (Classic) and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:10:09 a[backspace]ferderico0x0[enter]
+
+===  New Personal Access Token (Classic) and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:10:46 weqewqe
+
+===  Personal Access Tokens (Classic) and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:11:00 [ctrl]c
+
+===  Add GitHub Account  ===
+2022-11-03 10:11:07 [ctrl]v
+
+===  Share Project On GitHub  ===
+2022-11-03 10:11:34 U[backspace]Quiz-[backspace]-2[enter]
+
+===  Personal Access Tokens (Classic) and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:12:29 [enter]
+
+===  Share Project On GitHub  ===
+2022-11-03 10:12:52 Quiz1[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:13:08 [up][enter]
+
+===  Share Project On GitHub  ===
+2022-11-03 10:14:48 QUiz[backspace][backspace][backspace]uiz_`[backspace]1[enter]
+
+===  Commit Changes  ===
+2022-11-03 10:15:42 Yes[enter]
+
+===  Search  ===
+2022-11-03 10:17:15 Android[enter]
+2022-11-03 10:18:39 Android[enter]
+
+===  New tab - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:19:03 goolg.e[backspace][backspace][backspace][backspace]gle.com[enter]
+
+===  Google - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:19:08 github.com[enter]
+
+===  New tab and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:19:44 goo[enter]
+
+===  Google and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:20:03 Quiz[ctrl][caps][ctrl]aupload[backspace][caps][ctrl]aupload file directly github[enter]
+
+===  upload file directly github - Google Search and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:21:08 folder [enter]
+
+===  New tab and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:21:14 github.com [backspace][backspace][ctrl][ctrl]agithu[ctrl]agoo[enter]
+
+===  Google and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:21:19 github desktop[enter]
+
+===  How to upload folders on GitHub - Stack Overflow and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:21:46 [win]
+
+===  Run  ===
+2022-11-03 10:21:47 cmd[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:21:47 git[enter]cd D[backspace]D:[backspace]ow[tab][enter]dir[enter]cd D:[enter]qui[backspace][backspace][backspace]d:[enter]qui[backspace][backspace][backspace]cd qui[tab][enter]
+2022-11-03 10:22:00 dir[enter]cd ..[enter]cd fer[tab][enter]cd quis[enter]dir[enter]cd [backspace][backspace][backspace][backspace]git init[enter]
+
+===  GitHub Desktop | Simple collaboration from your desktop and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:22:29 goo[enter]
+
+===  Google and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:22:30 git change username and en[backspace]mail command lin[enter]
+
+===  Settings and 3 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:22:56 password[enter]
+2022-11-03 10:23:03 [ctrl]c
+
+===  git change username and email command line - Google Search and 3 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:23:16 git change usern[down][down][down] co[down][enter]
+
+===  git change username password command line - Google Search and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:23:26 change account git b[backspace]windows [enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:23:54 git config --global u[backspace]--un
+2022-11-03 10:24:00 set user.email user [backspace].password[enter][up][up][enter][up][enter][up][enter][up][enter]git [backspace][backspace][backspace][backspace][backspace]git add f[backspace]*[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - git  add *  ===
+2022-11-03 10:24:23 [ctrl]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:24:27 git 
+
+===  Settings and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:24:31 goo[enter]
+
+===  Google and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:24:32 windows git command i[backspace]line change username[enter]
+
+===  windows git command line change username - Google Search and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:24:47  ifferent account[enter]
+
+===  macos - How do I update the password for Git? - Stack Overflow and 6 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:25:01 github.com[enter]
+
+===  .ssh  ===
+2022-11-03 10:25:27 [delete]
+
+===  Command Prompt  ===
+2022-11-03 10:25:35 git clo[backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]ssh [backspace] -vt[backspace]T git[backspace]t@github.com[enter]
+
+===  Command Prompt - ssh  -vT git@github.com  ===
+2022-11-03 10:25:45 yes[enter]
+
+===  Command Prompt  ===
+2022-11-03 10:26:07 [up][enter][up][up][up][up][down][down]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:26:26 [backspace][backspace][backspace][backspace][backspace][backspace]ssh-keygen[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - ssh-keygen  ===
+2022-11-03 10:26:30 yes[enter][enter][enter]
+
+===  .ssh  ===
+2022-11-03 10:26:34 [f5][f5][f5][f5]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:26:42 [up][enter]
+
+===  C:\WINDOWS\system32\cmd.exe - ssh-keygen  ===
+2022-11-03 10:26:47 \[backspace][enter][enter][enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:26:50 [enter]
+
+===  id_rsa.pub - Notepad  ===
+2022-11-03 10:27:06 [ctrl]ac
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:27:10 [ctrl]
+
+===  Add new SSH keys and 6 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:27:13 [ctrl]v
+
+===  Command Prompt  ===
+2022-11-03 10:27:21 [enter]
+
+===  Command Prompt - ssh  -vT git@github.com  ===
+2022-11-03 10:27:22 [win]
+
+===  Run  ===
+2022-11-03 10:27:22 cmd[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:27:23 c[backspace]D:[enter]
+2022-11-03 10:28:30 git ii[backspace]nit[enter]git init [backspace][backspace][backspace][backspace][backspace]add *[enter]git commit -m
+2022-11-03 10:29:08 [backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]remote add origin https://github.com/NyomanFadhilah[backspace][backspace][backspace][backspace][backspace]ilah/Quiz_1[enter]git push git push -u [backspace][backspace][backspace][backspace]push -u origin master[enter]
+
+===  New tab and 7 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:30:06 google.c[enter]
+
+===  New Personal Access Token (Classic) and 7 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:30:26 To
+
+===  Personal Access Tokens (Classic) and 7 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:30:47 [ctrl]c
+
+===  Connect to GitHub  ===
+2022-11-03 10:30:49 [ctrl]v[ctrl]av
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:31:04 [up][enter]
+
+===  Connect to GitHub  ===
+2022-11-03 10:31:09 [ctrl]v
+
+===  git - Multiple GitHub accounts on the same computer? - Stack Overflow and 7 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:31:19 gi[backspace][backspace][backspace]goo[enter]
+
+===  Google and 7 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:31:21 git push ssh[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:32:00 git push u[backspace]-u org[backspace]igin .[backspace]main[enter][up][backspace][backspace][backspace][backspace]master[enter]
+
+===  Settings and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:32:27 password[enter][ctrl]c
+
+===  Sign in to GitHub · GitHub — Mozilla Firefox  ===
+2022-11-03 10:32:35 [ctrl]v
+
+===  Settings and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:32:39 [ctrl]c
+
+===  Sign in to GitHub · GitHub — Mozilla Firefox  ===
+2022-11-03 10:32:42 [ctrl]v
+
+===  NyomanFadilah/Quiz_1 and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:33:06 [enter]
+
+===  Settings and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:33:15 g[backspace][backspace]goo[enter]
+
+===  Google and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:33:16 git create folder[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:33:33 git add .[enter][up][up][enter]
+
+===  NyomanFadilah and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:33:40 [enter]
+
+===  Create a New Repository and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:34:00 Quiz_1_
+
+===  NyomanFadilah/Quiz_1_ and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:34:12 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:34:21 git remote add origin http
+
+===  NyomanFadilah/Quiz_1_ and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:34:28 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:34:32 [backspace][enter]
+
+===  NyomanFadilah/Quiz_1_ and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:34:55 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:35:02 [enter]
+
+===  How to upload folders on GitHub - Stack Overflow and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:35:35 git [ctrl]agoo[enter]
+
+===  Google and 8 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:35:38 git upload fol[backspace][backspace][backspace][down][down][enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:36:00 git init[enter]git add ..[enter][up][backspace][enter]git c[backspace]commit -m "initial"[enter]git push[enter]git push -[backspace]origin[enter]git remote add r[backspace]oro[backspace]gi[backspace][backspace]igin 
+
+===  NyomanFadilah/Quiz_1_ and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:36:45 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:36:47 [ctrl]cc[enter]git push[enter]git u[backspace]push -u origin [enter][up] [backspace]main[enter]
+
+===  Google and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:37:06 [enter][ctrl]v[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:37:36 git brach [backspace][backspace][backspace]nch -M Ma[backspace][backspace]main[enter][up][up][enter]
+
+===  ! [rejected] main -> main (fetch first) - Google Search and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:37:53 go[enter]
+
+===  Google and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:37:53 [ctrl]v[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:38:01 git push -f origin master[enter][up][up][down][backspace][backspace][backspace][backspace]ai[backspace][backspace]in[enter]
+
+===  NyomanFadilah/Quiz_1_ and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:38:16 [enter][ctrl]c[ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:38:27 [enter]
+
+===  NyomanFadilah/Quiz_1_ and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:38:31 [enter][enter][ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:38:44 [enter]
+
+===  Editing Quiz_1/README.md at main · NyomanFadilah/Quiz_1 and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:39:23 [backspace]
+
+===  NyomanFadilah/Quiz_1 and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:39:31 [ctrl][ctrl]c
+
+===  How do I create a folder in a GitHub repository? - Stack Overflow and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:39:34 g[backspace][backspace][backspace]web.what
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:40:04 exit[backspace][backspace][backspace][backspace][backspace]cd [backspace][backspace][backspace][backspace]
+
+===  Sign in to GitHub · GitHub and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:40:12 [backspace]luthfipratamawerdyluthfi3112[enter]
+
+===  GitHub · Where software is built and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:40:55 0634
+2022-11-03 10:41:00 05
+
+===  Create a New Repository and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:41:26 Quiz_1[enter]
+
+===  Luthfipratamawerdy/Quiz_1 and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:41:34 [ctrl][ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:41:49 [ctrl]c
+
+===  git - github account changing on windows - Stack Overflow and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:41:51 goo[enter]
+
+===  Google and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:41:52 remove remote e[backspace]origin [down][down][enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:42:05 git[backspace][backspace][backspace][backspace][backspace]git remote set-url origin [up][up][down][left][left][right][left][backspace][backspace][backspace]set-url[enter][up][up][up][down][down][down][down][down][up][up][down][down][down][down][down][ctrl]c[enter]
+
+===  Personal Access Tokens (Classic) and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:42:46 Nyoman[backspace][backspace][backspace][backspace][backspace][backspace]luthfipratamaw[backspace]werdy[enter]
+
+===  New Personal Access Token (Classic) and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:42:57 To
+
+===  Personal Access Tokens (Classic) and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:43:18 [ctrl]cc
+
+===  .ssh  ===
+2022-11-03 10:43:40 [delete]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:43:48 ssk-[backspace][backspace]h-ey[backspace][backspace]e[backspace]kyege[backspace][backspace][backspace][backspace]eygen[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - ssh-keygen  ===
+2022-11-03 10:43:54 [enter][enter][enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:43:55 [enter]
+
+===  id_rsa.pub - Notepad  ===
+2022-11-03 10:44:00 [ctrl]ac[ctrl]c
+
+===  Add new SSH keys and 9 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:44:15 [ctrl]v
+
+===  Luthfipratamawerdy/Quiz_1 - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:44:42 [ctrl]c[ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:44:48 [enter][up][up][up][down]
+2022-11-03 10:45:00 [up][up][up][down][down][down][down][down][up][up][up][up][up][up][up][up][up][down][up][up][up][up][up][up][down][enter][up][up][down][down][down][down][down][down][down][down][down][down][down][down][down][ctrl]cgit push -u r[backspace]origin main[enter]
+
+===  New tab and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:45:18 goo[enter]
+
+===  Google and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:45:21 git remote [backspace][backspace][backspace]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:45:34 git [up][down][down][up][up][up]
+
+===  Google and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:45:39 git hn[backspace][backspace]change username password [enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:46:00 git[backspace]git re[backspace][backspace]config --l[backspace]l[backspace]global unset.password p[backspace]n[backspace]unet.[backspace][backspace][backspace]set.email[enter][up][up][up][enter][up][up][up][up][up][down][down][down][down]
+
+===  Luthfipratamawerdy/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:46:19 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:46:23 [enter]git [backspace][backspace][backspace][backspace]
+
+===  Luthfipratamawerdy/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:46:54 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:46:56 [enter]
+
+===  git change username password - Google Search and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:47:03 goo[enter]
+
+===  Google and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:47:04 git permins[backspace][backspace]ssion dei[backspace]nied to git[backspace][backspace][backspace]remote [enter]
+
+===  remote git permission denied to - Google Search and 3 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:47:23 [backspace][enter]
+
+===  Select C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:47:40 g
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:47:40 it --con[backspace][backspace][backspace][backspace][backspace]condif --global usern[backspace].email = [backspace][backspace]
+
+===  Settings and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:48:05 password[enter][ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:48:14 [enter]
+
+===  C:\WINDOWS\system32\cmd.exe - git  condif --global user.email luthfipratamawerdy  ===
+2022-11-03 10:48:16 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:48:16 [up][left][left][left][backspace][backspace][backspace]fig[enter][up][up][up][down][down][down][down]
+
+===  Luthfipratamawerdy/Quiz_1 and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:48:33 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:48:36 [ctrl]cc[enter]
+
+===  Mengatasi remote: Permission denied atau Repository not found. - wahyunanangwidodo and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:48:46 goo[enter]
+
+===  Google and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:48:47 [ctrl]v[down][down][down][down][down][backspace][backspace][backspace][backspace]push[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:49:00 git [backspace][backspace][backspace][backspace][backspace][backspace]ssh -vT git@github.com[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - ssh  -vT git@github.com  ===
+2022-11-03 10:49:06 yes[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:49:09 [up][up][up]
+
+===  Luthfipratamawerdy/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:49:12 [ctrl]cc
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:49:16 [ctrl]cc[enter][backspace][backspace][backspace]git [up][up][up][up][down][down][down][down][down][down][ctrl]cgit [up][up][up][up][up][up][up][up][up][up][backspace][backspace][backspace]unset.password unset.email[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - git  condif --global unset.password unset.email  ===
+2022-11-03 10:49:36 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:49:36 [up][left][right][backspace][backspace][backspace]fig[enter][up][up][up][up][down]
+
+===  Luthfipratamawerdy/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:49:45 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:49:47 [ctrl]cc[enter]
+
+===  Luthfipratamawerdy/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:50:02 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe - git  push -u origin main  ===
+2022-11-03 10:50:05 [enter]
+
+===  Luthfipratamawerdy/Quiz_1 and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:50:34 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:50:39 [enter]
+
+===  Settings and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:50:47 goo[enter]
+
+===  Google and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:50:48 re[backspace][backspace][backspace]git clean all change[enter]
+
+===  git clean all change - Google Search and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:50:56 git pas[backspace][backspace][backspace]chag[backspace]nge us
+2022-11-03 10:51:00 ername a[down][down][enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:51:13 git config --list[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - git  config --list  ===
+2022-11-03 10:51:23 [enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][ctrl]c[ctrl]c[enter][enter]c[ctrl]c[esc][esc][esc][esc][enter][esc][esc][esc]
+
+===  quis  ===
+2022-11-03 10:51:41 cmd[enter]
+
+===  C:\Windows\System32\cmd.exe  ===
+2022-11-03 10:51:44 git [backspace][backspace][backspace][backspace][backspace]
+
+===  Luthfipratamawerdy/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:51:46 [ctrl]c[ctrl]c
+
+===  C:\Windows\System32\cmd.exe  ===
+2022-11-03 10:51:51 [enter]git -[backspace]c[backspace]o[backspace]config --global user.
+2022-11-03 10:52:00 name "lutfi"[enter][up][left][left][left][left][left][left][left][backspace][backspace][backspace][backspace][backspace]email [right][right][right][right][right][right]pratamawerdy[enter][up][left][left][backspace][backspace][backspace][backspace][backspace]passwr[backspace]prd[backspace][backspace][backspace]ord 
+
+===  Settings and 6 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:52:20 password[enter][ctrl]c
+
+===  C:\Windows\System32\cmd.exe  ===
+2022-11-03 10:52:34 [delete]"[left][left][left][left][left]'[backspace]"[ENTER][up][up][down][down][down][down][down][ctrl]cccgit 
+
+===  Luthfipratamawerdy/Quiz_1 and 6 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:52:46 [ctrl]c
+
+===  C:\Windows\System32\cmd.exe - git  git init  ===
+2022-11-03 10:52:53 [ctrl]c
+
+===  C:\Windows\System32\cmd.exe  ===
+2022-11-03 10:52:54 ccccc[enter]
+
+===  Luthfipratamawerdy/Quiz_1 - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:53:06 [ctrl]c
+
+===  New tab and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:53:10 goo[enter]
+
+===  Google and 1 more page - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:53:11 git us[backspace]nset config all[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:53:30 git config --global --edit[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - git  config --global --edit  ===
+2022-11-03 10:53:35 [delete][delete][delete][delete][down][delete][backspace][delete][delete][down][right][backspace][delete][down][delete][up][up][up][down][ctrl][ctrl]kk[delete][up][delete]
+2022-11-03 10:54:00 [up][delete][up][delete][up][delete][up][delete][delete][up][delete][ctrl]s[ctrl]sss[ctrl]ss[esc][esc][esc][esc][esc][esc]:qa[backspace][backspace]wq[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:54:16 cle[backspace]s[enter][up][up][up][up][down][down][up][up][up][up][up][down][down][down][down][down][backspace][backspace][backspace]cd fer[tab][enter]cd u[backspace]qu[tab][enter]
+
+===  Luthfipratamawerdy/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:54:28 [ctrl]c[ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:54:36 [enter]
+
+===  Luthfipratamawerdy/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:55:00 [ctrl]c
+
+===  Select C:\Windows\System32\cmd.exe  ===
+2022-11-03 10:55:05 g
+
+===  C:\Windows\System32\cmd.exe  ===
+2022-11-03 10:55:05 it add .[enter][enter]
+
+===  How can I remove an entry in global configuration with git config? - Stack Overflow and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:55:14 goo[enter]
+
+===  Google and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:55:15 remote a[backspace]fata[backspace]t[backspace]al [enter]
+
+===  remote fatal - Google Search and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:55:23  403[enter]
+
+===  Search  ===
+2022-11-03 10:55:45 .git
+
+===  github - Pushing to Git returning Error Code 403 fatal: HTTP request failed - Stack Overflow and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:56:01 [ctrl][ctrl][ctrl][ctrl]cc
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 10:56:07 [up][up][up][down][left][right][left][backspace]/[enter][up][up][up][down][enter][up][left][up][left][left][left][left][left]gir[backspace]t@[enter][up][up][up][left][left][left]git@[enter][up][up][up][enter]
+
+===  Luthfipratamawerdy/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:56:51 [enter]
+2022-11-03 10:57:34 [ctrl]c[ctrl]c[ctrl]c
+
+===  Sign in to GitHub · GitHub and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:58:47 [backspace]fhaldi858@gmail.com`[backspace][tab]
+2022-11-03 10:59:13 [backspace]stal[backspace][backspace][backspace][backspace][backspace]stalker231907
+
+===  GitHub · Where software is built and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 10:59:41 717024
+
+===  Mobile 1  ===
+2022-11-03 10:59:50 [delete]
+
+===  Command Prompt  ===
+2022-11-03 10:59:54 cls[enter]
+
+===  Create a New Repository and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:00:09 Quiz_1
+
+===  19thfhall/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:00:17 [ctrl]c
+
+===  Command Prompt  ===
+2022-11-03 11:00:23 ssh-e[backspace]keygen[enter]
+
+===  Command Prompt - ssh-keygen  ===
+2022-11-03 11:00:27 [enter][enter][enter]
+
+===  Command Prompt  ===
+2022-11-03 11:00:41 [enter]
+
+===  id_rsa.pub - Notepad  ===
+2022-11-03 11:00:46 [ctrl]ac
+
+===  Add new SSH keys and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:00:47 [ctrl]v
+
+===  19thfhall/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:01:02 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:01:09 [enter]
+
+===  C:\WINDOWS\system32\cmd.exe - git  push -u origin main  ===
+2022-11-03 11:01:11 yes[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:01:14 [up][down][up][up][up][up][up][up][up][up][down][enter][up][up][down][down][down][down][down][down][down][down][down][down][down][down][down][down][ctrl]c[enter][up][up][up][up][down][down][down][up][up][up][up][up][up][up][down][backspace][backspace][backspace][backspace][backspace][backspace]18thfhall/Quiz_1.git[enter][up][up][enter][up][down][down][down][down][down]
+2022-11-03 11:02:03 [backspace]
+
+===  19thfhall/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:02:05 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:02:10 [left][left][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]@[enter]
+
+===  19thfhall/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:02:23 [ctrl]c[ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:02:28 i[backspace]git push [ctrl]c[up][up][up][backspace][backspace][backspace][ctrl]cc[enter][up][enter][up][left][left][right][right][right][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]te set-url [enter][up][left][left][left][left]ssh://[enter][up][left][up][up][up][up][up][down][down][left]
+2022-11-03 11:03:01 [right][right]origin [enter]
+
+===  19thfhall/Quiz_1 and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:03:06 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:03:09 [enter]
+
+===  git unset config all - Google Search and 2 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:03:21 github.com[enter]
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:03:37 [enter]
+
+===  New tab and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:03:43 goo[enter]
+
+===  Google and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:03:44 [ctrl]v[enter]
+
+===  github - Git error: "Please make sure you have the correct access rights and the repository exists" - Stack Overflow and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:03:53 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:03:59 [up][up][up][up]
+2022-11-03 11:04:00 [down][left][left][left][left][left][backspace] [enter][up][up][up][down][enter]
+
+===  19thfhall/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:04:15 [enter]
+
+===  Sign in to GitHub · GitHub and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:04:50 [caps]t[caps]iara [caps]h[caps]afizah[backspace]
+2022-11-03 11:05:03 tiarabaekhyun23[enter][backspace][ctrl]a[backspace]itsuk[caps]m[caps]n[caps][backspace][backspace][backspace][caps]amana2003 @g[backspace][backspace][backspace]@gmail.com[tab]sdako233\[ctrl]a[backspace]sadako233[enter][caps]t[caps]iara[caps]h[caps]afizah23tiarabaekhyun23[enter]
+
+===  GitHub · Where software is built and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:06:13 412601[enter]
+
+===  .ssh  ===
+2022-11-03 11:06:23 [delete]
+
+===  Create a New Repository and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:06:40 [backspace][backspace][backspace]Quiz_1
+
+===  C:\Windows\System32\cmd.exe  ===
+2022-11-03 11:06:50 ssh[backspace][backspace][backspace][backspace][backspace]ssh k[backspace][backspace]-keygen[enter]
+
+===  C:\Windows\System32\cmd.exe - ssh-keygen  ===
+2022-11-03 11:06:55 [enter][enter][enter]
+
+===  C:\Windows\System32\cmd.exe  ===
+2022-11-03 11:06:56 [enter]
+
+===  id_rsa.pub - Notepad  ===
+2022-11-03 11:07:00 [ctrl]ac
+
+===  Add new SSH keys and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:07:12 [ctrl]v
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:07:39 [up][up][up][up][down]
+
+===  TiaraHafizah23/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:07:46 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:07:50 [backspace][backspace][backspace][backspace][backspace][enter][up][up][up][left][right][right][backspace]
+2022-11-03 11:08:00 [backspace][backspace][enter][up][up][up][up]
+
+===  TiaraHafizah23/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:08:06 [ctrl]c
+
+===  C:\WINDOWS\system32\cmd.exe  ===
+2022-11-03 11:08:09 [ctrl]cc[enter]
+
+===  C:\WINDOWS\system32\cmd.exe - git  push -u origin main  ===
+2022-11-03 11:08:13 yes[enter]
+
+===  TiaraHafizah23/Quiz_1 and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:08:21 [enter]
+
+===  Sign in to GitHub · GitHub and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:10:21 [ctrl]a[backspace]is[backspace]tsukamana2003@gmail.com[tab]adako233[enter][tab][tab]sadako23[ctrl]233[enter][esc][ctrl]
+2022-11-03 11:37:42 [backspace]indah[backspace]indahjuniati28
+2022-11-03 11:38:03 ndahjun06
+
+===  GitHub · Where software is built and 5 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:38:23 619082
+
+===  Intent Exercise – RegisterActivity.java [Intent_Exercise.app.main]  ===
+2022-11-03 11:39:12 [ctrl]
+
+===  Add GitHub Account  ===
+2022-11-03 11:41:58 [tab]
+2022-11-03 11:44:48 [ctrl]v
+2022-11-03 11:45:46 [ctrl]v
+
+===  IndahJuniati28 and 3 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 11:46:25 [ctrl]r
+
+===  Share Project On GitHub  ===
+2022-11-03 11:46:55 quis[enter]
+
+===  Browser Error  ===
+2022-11-03 11:47:03 [enter]
+
+===  Share Project On GitHub  ===
+2022-11-03 11:47:51 [backspace]qk
+
+===  Create a New Repository and 3 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 12:41:23 kontol
+
+===  General and 3 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 12:42:03 [ctrl]c[ctrl]v
+
+===  Create a New Repository and 3 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 12:42:22 ewrewr
+
+===  Open  ===
+2022-11-03 12:42:44 [ctrl]
+
+===  GitHub and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 12:44:04 [enter]
+
+===  Settings and 4 more pages - Profile 1 - Microsoft? Edge  ===
+2022-11-03 12:44:45 telegram.[backspace] web[enter]
